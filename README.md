@@ -25,22 +25,22 @@ Global View:
 ![Global view, image 1](https://github.com/NC509/NC509.github.io/blob/e6233cf62f58aba28480fcb948db4aa145bd69bb/Dashboard%20Images/1_Global%20View.png)
 
 Analysis Dashboard View:
-![Tutorial View](https://github.com/NC509/NC509.github.io/blob/a363c7719d683df7d6899acafb2d9e03d359c640/Dashboard%20Images/3_Analysis_Tutorial%20View.png)
+![Tutorial View, image 3]()
 
 ## Analysis
 From background research we know that temperature levels over 30 C° on average create a risk that leads to the coral bleaching process. In the analysis view we can see the change of temperature overtime relative to that bleaching risk zone. Additionally, when changing the visual to the "Average Temperature C° and Percent Bleaching by Year" view, we can now witness the relationship of the average temperature change and average percent of coral bleaching. This different view is shown below. 
 
 Average Temperature C° and Percent Bleaching by Year:
-![Bottom Visual Change](https://github.com/NC509/NC509.github.io/blob/a363c7719d683df7d6899acafb2d9e03d359c640/Dashboard%20Images/6_Analysis_Temp%26Bleach%20visual.png)
+![Bottom Visual Change, image6]()
 
 #### Example:
 Let's look at a time where there were coral bleaching risk. In this example we want to look at the Atlantic ocean, which only shows the Tropical Atlantic region, from years 2010 - 2020. In this point the average temperature is above the danger threshold showing there is likely a chance for coral bleaching. When selecting the year 2015 we can see there was an average of 34.52% bleaching to this area while the temperature was 30.90 C° on average. This bleaching affected different substrate types within that region in this year. Now looking at the global view during that year, we see 19.14% of bleaching within that Ocean Region on average for that year. This doesn't sound like a significant amount of coral bleaching, but this is an impactful amount. When coral bleaches, this causes problems for the marine life surrounding it, especially in longterm stressful conditions where the coral cannot reverse back to it's colorful state. 
 
 Example Analysis: 
-![ex analysis](https://github.com/NC509/NC509.github.io/blob/a363c7719d683df7d6899acafb2d9e03d359c640/Dashboard%20Images/7_Analysis_%20Show%20of%20Risk%20example.png)
+![ex analysis, image 7]()
 
 Example Global View:
-![ex global](https://github.com/NC509/NC509.github.io/blob/a363c7719d683df7d6899acafb2d9e03d359c640/Dashboard%20Images/8_Global%20View_Analysis_Show%20of%20Risk%20Example.png)
+![ex global, image 8]()
 
 ## Why is this important?
 Coral bleaching is a product of a defense mechanism activated by coral. Typically, algae will attach to coral creating a symbiotic relationship where the coral receives nutrients from the algae and the algae have a safe place to grow. As water temperature rises, algae begin to excrete toxic chemicals instead of nutrients. The coral then reacts by expelling the algae, which results in the coral taking on a greyish white color. Without their food source, the coral begins to die. (Ashlee 2025)
