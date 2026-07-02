@@ -1,4 +1,4 @@
-#Data, Terms, and Definitions
+# Data, Terms, and Definitions
 
 ## Data Source
 Biological and Chemical Oceanography Data Management Office, (2024), “Coral Reef Global Bleaching”, Coral database. [indicated subset used]. Kaggle, Accessed October 7th, 2025.  https://www.kaggle.com/datasets/mehrdat/coral-reef-global-bleaching 
