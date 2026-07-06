@@ -26,16 +26,16 @@ Analysis Dashboard View:
 ![Tutorial View, image 3](https://github.com/NC509/NC509.github.io/blob/aad5b13eeed5d288bec72bf02fb54578b5df14c5/Dashboard%20Images/3_Analysis_Tutorial.png)
 
 ## Analysis
-Background research indicates that when coral reef is exposed to an average water temperature of 30°C of a long period of time increases the risk of coral bleaching. In the analysis view of this dashboard, temperature is shown over time relative to the risk threshold. The visual, "Average Temperature °C and Percent Bleaching by Year" represents the relationship between the temperature and the percent of bleaching. This visual is shown below. 
+Background research indicates that when coral reef is exposed to an average water temperature of 30°C of a long period of time increases the risk of coral bleaching. In the analysis view of this dashboard, temperature is shown over time relative to the risk threshold. The visual, "Average Temperature °C and Percent Bleaching by Year" represents the relationship between the temperature, and the percent of bleaching in samples that were and were not at risk. This visual is shown below. 
 
 Average Temperature °C and Percent Bleaching by Year:
-![Bottom Visual Change, image6](https://github.com/NC509/NC509.github.io/blob/aad5b13eeed5d288bec72bf02fb54578b5df14c5/Dashboard%20Images/6_Analysis_TempBleachLevel.png)
+![Bottom Visual Change, image6](https://github.com/NC509/PowerBi_Dashboard_NC509.github.io/blob/5fc14f34d7242384580ba3da1d6dfa7be4db2ad5/Dashboard%20Images/6_1998_present_Analysis_Temp%26Bleach.png)
 
 #### Example:
 Let's consider the Tropical Atlantic region from 2010-2020. During high risk periods, where the average temperature exceeded the danger threshold. In 2015, the region had an average temperature of 30.90°C and an average bleaching of 34.52% in at risk sites. The global view shows sites across the region where coral is at risk ranging at various stages of coral bleaching. When looking at the year alone for this region there is an average bleaching of 19.14%. Although 19.14% may not seem disastrous, it represents a significant ecological impact. Prolonged bleaching events degrade coral health, causing long-term loss of color, and harms the ecosystems of the region. 
 
 Example Analysis: 
-![ex analysis, image 7](https://github.com/NC509/NC509.github.io/blob/aad5b13eeed5d288bec72bf02fb54578b5df14c5/Dashboard%20Images/7_Analysis_AtRisk%20Example.png)
+![ex analysis, image 7](https://github.com/NC509/PowerBi_Dashboard_NC509.github.io/blob/74ba2bb237852665983868c5e19f19d8a91115a0/Dashboard%20Images/7_Ex_Analysis_risk.png)
 
 Example Global View:
 ![ex global, image 8](https://github.com/NC509/NC509.github.io/blob/294b5db9a8e56f132a7660c5c37751803ba4d3a0/Dashboard%20Images/8_Global_AnalysisExample.png)
