@@ -55,15 +55,15 @@ _Business Analytics Student Society Officer, Director of Operations_
 
 # Thank you!
 
+------------------------------------------------------------------------------
 
 
 
 
 
 
-
-#provided template 
-##(keeping for reference for now)
+# provided template 
+## (keeping for reference for now)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
