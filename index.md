@@ -7,7 +7,7 @@ Hi! My name is Noah, and I am a grad student studying **business analytics** at 
 ### Click link below to view my github.
 [Link to my Github](https://github.com/NC509).
 
-#Work Experience
+# Work Experience
 **Home Depot, CA**
 _Freight Team Associate_
 * Collaborate as a team to unload freight inventory trucks and move inventory to product locations or overhead inventory, improving the overall store readiness.
