@@ -5,7 +5,7 @@ layout: default
 Hi! My name is Noah, and I am a grad student studying **business analytics** at **California State University San Marcos**. Through my education I have learned the fundamentals and advanced techniques used in the analytics industry. This page is to showcase my projects and progress of skills to perform different types of analysis for many industries.
 
 ### Click link below to view my LinkedIn.
-[Link to my Github](https://www.linkedin.com/in/noah-carter-21a608330/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B87gmgiMfSJGTAvsc7RA%2FdQ%3D%3D).
+[LinkedIn](https://www.linkedin.com/in/noah-carter-21a608330/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B87gmgiMfSJGTAvsc7RA%2FdQ%3D%3D).
 
 # Work Experience
 **Home Depot, CA**
