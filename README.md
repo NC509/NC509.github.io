@@ -5,6 +5,6 @@ Hello! My name is Noah, and I am a business analytics student. This repository p
 View page here: https://nc509.github.io/ 
 
 ## Resources used
-The portfolio template that I used to make this portfolio was extracted from a simple theme called minimal. 
+The portfolio template that I used to make this portfolio was extracted from a simple theme called "minimal". 
 
 The link for this template used is the following: https://github.com/pages-themes/minimal  
