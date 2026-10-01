@@ -1,8 +1,9 @@
 # ReadMe
 
-Hello! My name is Noah, and I am a business analytics student. This repository pertains to the creation of my github.io portfolio page. This page that is produced from this repository will showcase my projects that I have been working on! 
+This repository pertains to the creation of my github.io portfolio page. This page that is produced from this repository will showcase my projects that I have been working on! The link to view my project portfolio is provided below. 
 
-View page here: https://nc509.github.io/ 
+Project Portfolio: https://nc509.github.io/ 
+
 
 ## Resources used
 The portfolio template that I used to make this portfolio was extracted from a simple theme called "minimal". 
