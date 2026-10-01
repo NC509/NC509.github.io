@@ -27,23 +27,35 @@ _Business Analytics Student Society Officer, Director of Operations_
 # Education
 **California State University San Marcos**
 - _Bachelor of Science Business Administration-Business Analytics_
-    - Business Analytics Coursework: Intro to Business Analytics, Operations Management, Supply Chain Information Management, Advanced Business Analytics, Visual Analytics, Prescriptive Analytics for Business Decision Making, Integrated Optimization and Machine Learning for Business Analytics.
+    - Business Analytics Coursework:
+          1. Intro to Business Analytics
+          1. Operations Management
+          1. Supply Chain Information Management
+          1. Advanced Business Analytics
+          1. Visual Analytics
+          1. Prescriptive Analytics for Business Decision Making
+          1. Integrated Optimization and Machine Learning for Business Analytics
 
 - _Masters of Science Business Analytics_
-  - Coursework: Tools and Technologies for Business Analytics, Advanced Visual Analytics, Customer and Process Analytics, Introduction to Data Mining, Advanced Data Mining. 
+  - Current Coursework:
+    1. Tools and Technologies for Business Analytics
+    1. Advanced Visual Analytics
+    1. Customer and Process Analytics
+    1. Introduction to Data Mining
+    1. Advanced Data Mining. 
 
 # Completed Projects
 
 ### Project 1
 ```
 # Project is under construction
-# This project is most likely from Intro to Data mining course (since we find data, course data will not be used)
+# This project will be posted by the end of December 2026.
 ```
 
 ### Project 2
 ```
 # Project is under construction
-# This project is most likely from Advanced Visual Analytics (since we find data, course data will not be used)
+# This project will be posted by the end of December 2026.
 ```
 
 # Relevant Skills
