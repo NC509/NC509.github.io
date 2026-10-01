@@ -15,10 +15,10 @@ _Freight Team Associate_
 * Provide customer support by answering product questions, offering guidance, and connecting customers with additional company services to ensure customer satisfaction.
 * Train new freight team associates on  unloading procedures, safety protocols, and product organization.
 
-## Leadership/Volunteer Experience
-**California State University San Marcos, CA**
+## Leadership Experience
+**California State University San Marcos (CSUSM), CA**
 _Business Analytics Student Society Officer, Director of Operations_
-* Established a new student organization under the College of Business Administration at CSUSM.
+* We established a new student organization under the College of Business Administration at CSUSM.
 * Managed student meeting data and ensured accurate tracking throughout the semester.
 * Developed an end of year report on society operations and performance.
 * Assisted students with any questions towards workshops, forecast competitions, professional guest speakers, and courses they may be interested in.
@@ -63,6 +63,7 @@ _Business Analytics Student Society Officer, Director of Operations_
 1. Power Bi
 1. Microsoft Office Applications (Excel, Word, PowerPoint, Teams) 
 1. R Studio 
+
 
 
 # Thank you!
