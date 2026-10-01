@@ -7,4 +7,4 @@ View page here: https://nc509.github.io/
 ## Resources used
 This portfolio template was extracted from a simple theme called minimal. 
 
-The link for this repository is: https://github.com/pages-themes/minimal  
+The link for this template used is the following: https://github.com/pages-themes/minimal  
