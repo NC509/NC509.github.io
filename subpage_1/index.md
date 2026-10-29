@@ -7,20 +7,32 @@ Once you have completed your account set up, we are ready to begin!
  - I will explain this through the website version of GitHub rather than using app. 
 
 # Required steps to make an e-portfolio. 
-In the making of this portfolio we rely on a template called, ["minimal"](https://github.com/pages-themes/minimal). This is a GitHub Repository that allows us to download the files, upload it to our page, and all we have to do is edit the files to make our own version. There are many templates out there that I encourage you to explore, but using this minimal template first is a great way to gain a foundational understanding. 
-- will continue later
+In the making of this portfolio we rely on a template called, ["minimal"](https://github.com/pages-themes/minimal). This is a GitHub Repository that allows us to download the files, upload it to our page, and customize our content to represent our page. There are many templates out there that I encourage you to explore, but using this pre-made "minimal" template first is a great way to gain a foundational understanding. 
 
-## Step 1(name)
+If interested in other template files, you can find other templates through the following links: ["templates on GitHub"](https://github.com/topics/jekyll-theme), ["academicpages.github.io"](https://academicpages.github.io/), and ["Mundana Theme"](https://github.com/codebygina/mundana-theme-jekyll). 
+
+## Step 1, Creating your github.io repository
 ...
 
-## Step 2(name)
-...
+## Step 2, Download "minimal" template
+- download zip, clone personal .io repository first?? `screenshot`
+- upload to repository `screenshot`
+## Step 3, Customization (task 1-4)
 
-## Step 3(name)
-...
+### Config file
+title, logo (headshot_show example), description, downloads, google analytics, theme, remote theme, plugins `screenshot`
+
+### Index.md
+resume stuff
+
+## Step 4, Making final Commit
+Make a final commit to your GitHub repository and check on your e-portfolio to make sure your changes have been saved on your page. You can check to see if your deployment was successful by first navigating to the "Actions" tab on your repository and seeing a successful "pages build and deployment" status. `screenshot` 
+
+Secondly you can visit your e-portfolio page to see the changes. Keep in mind it takes a minute or two for the page to load your changes. 
 
 # Resources Used
-...
+Here are the resources I have used to make this page as stated before:
 
 # My version (final screenshot of my portfolio)
-...
+By the end you should have an e-portfolio similar to mine!
+`screenshot`
