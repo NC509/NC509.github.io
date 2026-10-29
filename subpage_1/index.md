@@ -9,7 +9,7 @@ Once you have completed your account set up, we are ready to begin!
 # Required steps to make an e-portfolio. 
 In the making of this portfolio we rely on a template called, ["minimal"](https://github.com/pages-themes/minimal). This is a GitHub Repository that allows us to download the files, upload it to our page, and customize our content to represent our page. There are many templates out there that I encourage you to explore, but using this pre-made "minimal" template first is a great way to gain a foundational understanding. 
 
-If interested in other template files, you can find other templates through the following links: ["templates on GitHub"](https://github.com/topics/jekyll-theme), ["academicpages.github.io"](https://academicpages.github.io/), and ["Mundana Theme"](https://github.com/codebygina/mundana-theme-jekyll). 
+If interested in other template files, you can find other templates through the following links: ["templates on GitHub"](https://github.com/topics/jekyll-theme), ["academicpages.github.io"](https://academicpages.github.io/), ["Mundana Theme"](https://github.com/codebygina/mundana-theme-jekyll), and ["minimal-mistakes"](https://github.com/mmistakes/minimal-mistakes).
 
 ## Step 1, Creating your github.io repository
 ...
@@ -30,8 +30,12 @@ Make a final commit to your GitHub repository and check on your e-portfolio to m
 
 Secondly you can visit your e-portfolio page to see the changes. Keep in mind it takes a minute or two for the page to load your changes. 
 
+## Step 5, Repository Customization
+In your repository you are going to want to customize your README file, since the file is still the same from the minimal template. It is highly advised to customize this to tell viewers what this repository does and how to access your e-portfolio. `screenshot`
+
 # Resources Used
 Here are the resources I have used to make this page as stated before:
+["minimal"](https://github.com/pages-themes/minimal)
 
 # My version (final screenshot of my portfolio)
 By the end you should have an e-portfolio similar to mine!
