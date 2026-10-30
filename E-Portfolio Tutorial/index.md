@@ -110,11 +110,7 @@ Here are the resources I have used to make the e-portfolio page:
 - ["minimal-mistakes"](https://github.com/mmistakes/minimal-mistakes)
 
 # Final Result
-By the end you should have an e-portfolio similar to mine! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
+By the end you should have an e-portfolio similar to [my page](https://nc509.github.io/)! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
 
 
 <img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/ed4ff4c9-a340-425d-a04e-79459cdf8b5f" />
-
-
-
-#### <-- [My portfolio](https://nc509.github.io/)
