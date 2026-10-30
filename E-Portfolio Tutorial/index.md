@@ -69,7 +69,7 @@ Here this is a cheat sheet on some markdown formatting I have used. When using t
 |`\*literal asterisks\*`  | \*literal asterisks\*   |
 |`**bold**`  | **bold**   |
 |`__bold__`  | __bold__   |
-| <img width="112" height="25" alt="image" src="https://github.com/user-attachments/assets/fb7ebb54-7c35-4421-a316-4a57e82107b6" /> | Inline code   |
+| <img width="112" height="25" alt="image" src="https://github.com/user-attachments/assets/fb7ebb54-7c35-4421-a316-4a57e82107b6" /> | `Inline code`   |
 | <img width="145" height="87" alt="image" src="https://github.com/user-attachments/assets/045ea3f7-5434-4fac-ab12-252289866a68" />|<img width="141" height="81" alt="image" src="https://github.com/user-attachments/assets/1e45a24c-90ec-4ebf-90a3-e113dd102294" />| 
 | <img width="62" height="75" alt="image" src="https://github.com/user-attachments/assets/fe7e3c3b-bacd-44ce-b2d8-b2b7c7bdac7e" /> | <img width="65" height="57" alt="image" src="https://github.com/user-attachments/assets/683923e6-9152-417b-99a1-b71961099c1a" />  |
 | [<"Text">](`<"Link location">`) | [Link](https://nc509.github.io/) |
@@ -112,4 +112,4 @@ Here are the resources I have used to make the e-portfolio page:
 # Final Result
 By the end you should have an e-portfolio similar to mine! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
 
-<img width="1920" height="2558" alt="image" src="https://github.com/user-attachments/assets/4667c3f3-b174-466f-919c-556dc52bff71" />
+<img width="640" height="853" alt="image" src="https://github.com/user-attachments/assets/4667c3f3-b174-466f-919c-556dc52bff71" />
