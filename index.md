@@ -44,7 +44,7 @@ _Business Analytics Student Society Officer, Director of Operations_
     1. Introduction to Data Mining
     1. Advanced Data Mining. 
 
-# Completed Projects
+# Analytics Projects
 
 ### Project 1
 ```
@@ -57,6 +57,9 @@ _Business Analytics Student Society Officer, Director of Operations_
 # Project is under construction
 # This project will be posted by the end of December 2026.
 ```
+
+# Projects
+Here is my tutorial guide on how to make an e-portfolio: [Tutorial](https://nc509.github.io/E-Portfolio%20Tutorial/)
 
 # Relevant Skills
 1. Excel VBA
