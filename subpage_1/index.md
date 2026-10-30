@@ -33,7 +33,7 @@ As of this step you should see the contents of the files you have uploaded from 
 ## Step 3: Customization 
 This is where the fun begins...if you aren't already having fun...but I hope you have been `:)`
 
-In this step is where the visible customization to your page occurs. Your current page should look like the following. To see this page for yourself you can type in your search bar, `https//<your username>.github.io/`. To make this easier, you might want to save this link so you can get to it quicker, or just keep the tab open for now. When you make changes to your e-portfolio you can refresh the page once the changes have loaded in. 
+In this step is where the visible customization to your page occurs. To see this page for yourself you can type in your search bar, `https//<your username>.github.io/`. To make this easier, you might want to save this link so you can get to it quicker, or just keep the tab open for now. When you make changes to your e-portfolio you can refresh the page once the changes have loaded in. Your current page should look like the following.
 
 <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/4f3a6517-bc0a-4dfa-ba27-7499086f55dc" />
 
@@ -51,7 +51,7 @@ My config.yml file and left side of the e-portfolio looks like the following. Yo
 Once you are finalizing these changes, you can commit the changes to your repository. 
 
 ### Index.md
-Now we want to change the `index.md` file. This file as stated previously controls the right side of the e-portfolio. In this side, you can fully customize your portfolio any way you like. In this case let's customize this side following a resume format. The resume format is as the following: **Summary**, **Work Experience**, **Education**, **Completed Projects**, and **Relevant Skills**. In this section you can organize your portfolio with headers, tables, lists, bold, italics, links and more. If this e-portfolio is being used for your career/job search, like your resume, you can link your LinkedIn so others could see your networking profile. Under the project section you can attach a link to your projects so others can see your amazing work! A link is structured as follows: `["text the link displays"](<The link>)`
+Now we want to change the `index.md` file. This file as stated previously controls the right side of the e-portfolio. In this side, you can fully customize your portfolio any way you like. In this case let's customize this side following a resume format. The resume format is as the following: **Summary**, **Work Experience**, **Education**, **Completed Projects**, and **Relevant Skills**. In this section you can organize your portfolio with headers, tables, lists, bold, italics, links and more. If this e-portfolio is being used for your career/job search, like your resume, you can link your LinkedIn or other networking/profile pages, so others could see your networking profile. Under the project section you can attach a link to your projects so others can see your amazing work! A link is structured as follows: `["text the link displays"](<The link>)`
 
 
 #### Markdown Cheat sheet: 
@@ -103,7 +103,7 @@ Some other ways to refine your repository are to remove the files that are unnec
 
 
 # Resources Used
-Here are the resources I have used to make this page:
+Here are the resources I have used to make the e-portfolio page:
 - ["minimal"](https://github.com/pages-themes/minimal)
 - ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)
 
@@ -111,7 +111,7 @@ Here are the resources I have used to make this page:
 - ["templates on GitHub"](https://github.com/topics/jekyll-theme)
 - ["academicpages.github.io"](https://academicpages.github.io/)
 - ["Mundana Theme"](https://github.com/codebygina/mundana-theme-jekyll)
-- ["minimal-mistakes"](https://github.com/mmistakes/minimal-mistakes).
+- ["minimal-mistakes"](https://github.com/mmistakes/minimal-mistakes)
 
 # Final Result
 By the end you should have an e-portfolio similar to mine! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
