@@ -113,5 +113,5 @@ Here are the resources I have used to make the e-portfolio page:
 By the end you should have an e-portfolio similar to mine! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
 
 
-<img width="700" height="850" alt="image" src="https://github.com/user-attachments/assets/ed4ff4c9-a340-425d-a04e-79459cdf8b5f" />
+<img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/ed4ff4c9-a340-425d-a04e-79459cdf8b5f" />
 
