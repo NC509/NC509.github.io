@@ -50,10 +50,10 @@ My config.yml file and left side of the e-portfolio looks like the following. Yo
 Once you are finalizing these changes, you can commit the changes to your repository. 
 
 ### Index.md
-Now we want to change the `index.md` file. This file as stated previously controls the right side of the e-portfolio. In this side, you can fully customize your portfolio any way you like. In this case let's customize this side following a resume format. The resume format is as the following: **Summary**, **Work Experience**, **Education**, **Completed Projects**, and **Relevant Skills**. In this section you can organize your portfolio with headers, tables, lists, bold, italics, links and more. If this e-portfolio is being used for your career, like your resume, you can link your LinkedIn so others could see your networking profile while looking at your networking profile. 
+Now we want to change the `index.md` file. This file as stated previously controls the right side of the e-portfolio. In this side, you can fully customize your portfolio any way you like. In this case let's customize this side following a resume format. The resume format is as the following: **Summary**, **Work Experience**, **Education**, **Completed Projects**, and **Relevant Skills**. In this section you can organize your portfolio with headers, tables, lists, bold, italics, links and more. If this e-portfolio is being used for your career, like your resume, you can link your LinkedIn so others could see your networking profile. Under the project section you can send a link to your projects so others can see your amazing work! 
 
 #### Markdown Cheat sheet: 
-Here this is a cheat sheet on markdown formatting. When using this, you may format and structure your e-portfolio using these techniques. 
+Here this is a cheat sheet on markdown formatting. When using this, you may format and structure your e-portfolio using these techniques. This is cheat sheet is from ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)
 
 |Markdown code |Result        |
 |:-------------|-------------:|
@@ -68,25 +68,51 @@ Here this is a cheat sheet on markdown formatting. When using this, you may form
 |`**bold**`  | **bold**   |
 |`__bold__`  | __bold__   |
 |`~~strikethrough~~`  | ~~strikethrough~~   |
-|`1. First item...`  |1. First item| 
+| <img width="145" height="87" alt="image" src="https://github.com/user-attachments/assets/045ea3f7-5434-4fac-ab12-252289866a68" />|<img width="141" height="81" alt="image" src="https://github.com/user-attachments/assets/1e45a24c-90ec-4ebf-90a3-e113dd102294" />| 
+| <img width="112" height="52" alt="image" src="https://github.com/user-attachments/assets/11b076b3-caa2-4cb1-9311-e4c7efb8380d" /> | <img width="106" height="71" alt="image" src="https://github.com/user-attachments/assets/0733e916-4acf-49aa-9c00-647111c19d9a" />  |
+| <img width="62" height="75" alt="image" src="https://github.com/user-attachments/assets/fe7e3c3b-bacd-44ce-b2d8-b2b7c7bdac7e" /> | <img width="65" height="57" alt="image" src="https://github.com/user-attachments/assets/683923e6-9152-417b-99a1-b71961099c1a" />  |
+| <img width="65" height="51" alt="image" src="https://github.com/user-attachments/assets/f6bf4259-b407-4b82-8017-64ec3c86c67f" />  | <img width="116" height="32" alt="image" src="https://github.com/user-attachments/assets/96a36877-0a45-4fdd-82d8-8ad8e60d19a3" /> (makes a border line) |
+| <img width="200" height="77" alt="image" src="https://github.com/user-attachments/assets/bf87e130-f865-4790-b7a7-0c41b076d669" />  | <img width="97" height="31" alt="image" src="https://github.com/user-attachments/assets/b37a96c6-a5f0-4e84-a38f-6b0fd246ad24" /> |
+| <img width="187" height="102" alt="image" src="https://github.com/user-attachments/assets/cb982744-ff36-4e17-8292-34b697a9a7b7" />`["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)` | ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/) |
+| `> blockquote text` | > blockquote text |
+| <img width="227" height="117" alt="image" src="https://github.com/user-attachments/assets/afdc3768-af07-4053-b7dd-20d74aa184bb" />  | <img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/143520d6-5147-4807-ade4-0a1bdfd79d3c" />  |
+| <img width="212" height="62" alt="image" src="https://github.com/user-attachments/assets/21680188-b8b7-4e92-9908-fbab9938057a" /> | <img width="50" height="45" alt="image" src="https://github.com/user-attachments/assets/b03fad5a-1070-45b2-af37-cc3e4a9309b1" /> |
+ | <img width="162" height="57" alt="image" src="https://github.com/user-attachments/assets/095d3a45-fe67-4f48-b6a7-b5d1ba18fc69" /> | $\sqrt{x}$ |
+| <img width="237" height="66" alt="image" src="https://github.com/user-attachments/assets/72a1c03d-7f67-4509-887a-aca037a8c17d" /> | <img width="107" height="62" alt="image" src="https://github.com/user-attachments/assets/00454d07-1609-48ee-b90f-d282d4b33524" />  |
 
-
-1. first
-2. second
-  3. inner
 
 ## Step 4: Making final Commit
-Make a final commit to your GitHub repository and check on your e-portfolio to make sure your changes have been saved on your page. You can check to see if your deployment was successful by first navigating to the "Actions" tab on your repository and seeing a successful "pages build and deployment" status. `screenshot` 
+Make a final commit to your GitHub repository and check on your e-portfolio to make sure your changes have been saved on your page. You can check to see if your deployment was successful by first navigating to the "Actions" tab on your repository and seeing a successful "pages build and deployment" status. 
 
 Secondly you can visit your e-portfolio page to see the changes. Keep in mind it takes a minute or two for the page to load your changes. 
 
 ## Step 5: Repository Refinement
-In your repository you are going to want to customize your README file, since the file is still the same from the minimal template. It is highly advised to customize this to tell viewers what this repository does and how to access your e-portfolio. `screenshot`
+In your repository you are going to want to customize your README.md file, since the file is still the same from the minimal template. It is highly advised to customize this to tell viewers what this repository does and how to access your e-portfolio. 
+
+**Old version:** 
+
+<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/d5ccb3f4-6ba5-4ce0-974f-a29c38531718" />
+
+
+**New version:** 
+
+<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/28cb7c0f-4890-46e2-b2a9-bb321e9a28ee" />
+
 
 # Resources Used
 Here are the resources I have used to make this page as stated before:
-["minimal"](https://github.com/pages-themes/minimal)
+- ["minimal"](https://github.com/pages-themes/minimal)
+- ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)
 
-# My version (final screenshot of my portfolio)
+
+# Final Result
 By the end you should have an e-portfolio similar to mine!
-`screenshot`
+
+<img width="960" height="1279" alt="image" src="https://github.com/user-attachments/assets/4667c3f3-b174-466f-919c-556dc52bff71" />
+
+
+
+
+
+
+
