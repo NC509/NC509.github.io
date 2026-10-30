@@ -12,7 +12,7 @@ Once you have completed your account set up, we are ready to begin!
 3. <ins>Push</ins> - A push, like a commit, is when the user uploads the changes made from the user's machine(computer) to the repository held in GitHub. The term "push" is mostly used when using the GitHub application, but it is a common saying amongst either application or web GitHub service users meaning to making a commit to the repository.
 4. <ins>Zipper file</ins> - A zipper file is a compressed file, reducing its size to make the downloading process much smoother.
 
-# Required steps to make an e-portfolio. 
+# Steps on making an e-portfolio. 
 In the making of this portfolio we rely on a template called, ["minimal"](https://github.com/pages-themes/minimal). This is a GitHub Repository where we download the files, upload it to our repository, and customize our content to represent our e-portfolio page. There are many templates out there that I encourage you to explore, but using this pre-made "minimal" template first is a great way to gain a foundational understanding to making a page. 
 
 If interested, you can find other templates through the following links: ["templates on GitHub"](https://github.com/topics/jekyll-theme), ["academicpages.github.io"](https://academicpages.github.io/), ["Mundana Theme"](https://github.com/codebygina/mundana-theme-jekyll), and ["minimal-mistakes"](https://github.com/mmistakes/minimal-mistakes).
@@ -55,7 +55,7 @@ Now we want to change the `index.md` file. This file as stated previously contro
 
 
 #### Markdown Cheat sheet: 
-Here this is a cheat sheet on markdown formatting. When using this, you may format and structure your e-portfolio using these techniques. This cheat sheet is from ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)
+Here this is a cheat sheet on some markdown formatting I have used. When using this, you may format and structure your e-portfolio using these techniques. For more markdown techniques visit this cheat sheet from ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)
 
 |Markdown code |Result        |
 |:-------------|-------------:|
@@ -69,18 +69,14 @@ Here this is a cheat sheet on markdown formatting. When using this, you may form
 |`\*literal asterisks\*`  | \*literal asterisks\*   |
 |`**bold**`  | **bold**   |
 |`__bold__`  | __bold__   |
-|`~~strikethrough~~`  | ~~strikethrough~~   |
+| <img width="112" height="25" alt="image" src="https://github.com/user-attachments/assets/fb7ebb54-7c35-4421-a316-4a57e82107b6" /> | Inline code   |
 | <img width="145" height="87" alt="image" src="https://github.com/user-attachments/assets/045ea3f7-5434-4fac-ab12-252289866a68" />|<img width="141" height="81" alt="image" src="https://github.com/user-attachments/assets/1e45a24c-90ec-4ebf-90a3-e113dd102294" />| 
-| <img width="112" height="52" alt="image" src="https://github.com/user-attachments/assets/11b076b3-caa2-4cb1-9311-e4c7efb8380d" /> | <img width="106" height="71" alt="image" src="https://github.com/user-attachments/assets/0733e916-4acf-49aa-9c00-647111c19d9a" />  |
 | <img width="62" height="75" alt="image" src="https://github.com/user-attachments/assets/fe7e3c3b-bacd-44ce-b2d8-b2b7c7bdac7e" /> | <img width="65" height="57" alt="image" src="https://github.com/user-attachments/assets/683923e6-9152-417b-99a1-b71961099c1a" />  |
-| <img width="65" height="51" alt="image" src="https://github.com/user-attachments/assets/f6bf4259-b407-4b82-8017-64ec3c86c67f" />  | <img width="116" height="32" alt="image" src="https://github.com/user-attachments/assets/96a36877-0a45-4fdd-82d8-8ad8e60d19a3" /> (makes a border line) |
-| <img width="200" height="77" alt="image" src="https://github.com/user-attachments/assets/bf87e130-f865-4790-b7a7-0c41b076d669" />  | <img width="97" height="31" alt="image" src="https://github.com/user-attachments/assets/b37a96c6-a5f0-4e84-a38f-6b0fd246ad24" /> |
-| <img width="187" height="102" alt="image" src="https://github.com/user-attachments/assets/cb982744-ff36-4e17-8292-34b697a9a7b7" />`["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/)` | ["sqlBak.com"](https://sqlbak.com/blog/jupyter-notebook-markdown-cheatsheet/) |
+| [<"Text">](`<"Link location">`) | [Link](https://nc509.github.io/) |
 | `> blockquote text` | > blockquote text |
-| <img width="227" height="117" alt="image" src="https://github.com/user-attachments/assets/afdc3768-af07-4053-b7dd-20d74aa184bb" />  | <img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/143520d6-5147-4807-ade4-0a1bdfd79d3c" />  |
-| <img width="212" height="62" alt="image" src="https://github.com/user-attachments/assets/21680188-b8b7-4e92-9908-fbab9938057a" /> | <img width="50" height="45" alt="image" src="https://github.com/user-attachments/assets/b03fad5a-1070-45b2-af37-cc3e4a9309b1" /> |
- | <img width="162" height="57" alt="image" src="https://github.com/user-attachments/assets/095d3a45-fe67-4f48-b6a7-b5d1ba18fc69" /> | $\sqrt{x}$ |
-| <img width="237" height="66" alt="image" src="https://github.com/user-attachments/assets/72a1c03d-7f67-4509-887a-aca037a8c17d" /> | <img width="107" height="62" alt="image" src="https://github.com/user-attachments/assets/00454d07-1609-48ee-b90f-d282d4b33524" />  |
+| <img width="227" height="117" alt="image" src="https://github.com/user-attachments/assets/afdc3768-af07-4053-b7dd-20d74aa184bb" />  | <img width="261" height="152" alt="image" src="https://github.com/user-attachments/assets/143520d6-5147-4807-ade4-0a1bdfd79d3c" /> This is a table format |
+
+
 
 
 ## Step 4: Making the final Commit
@@ -116,4 +112,4 @@ Here are the resources I have used to make the e-portfolio page:
 # Final Result
 By the end you should have an e-portfolio similar to mine! I hope this guide has been helpful to you and I wish you the greatest of luck with your future projects!
 
-<img width="960" height="1279" alt="image" src="https://github.com/user-attachments/assets/4667c3f3-b174-466f-919c-556dc52bff71" />
+<img width="1920" height="2558" alt="image" src="https://github.com/user-attachments/assets/4667c3f3-b174-466f-919c-556dc52bff71" />
